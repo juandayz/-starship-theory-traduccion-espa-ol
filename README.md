@@ -1,7 +1,9 @@
 # -starship-theory-traduccion-espa-ol
 
+**SI YA TENES EL JUEGO**
+
 ```
-1. Dentro de la carpeta config/ del juego y remplaza el archivo "Spanish.txt" por el provisto aqui.
+1. Dentro de la carpeta config/ del juego, remplaza el archivo "Spanish.txt" por el provisto aqui.
 
 https://github.com/juandayz/-starship-theory-traduccion-espa-ol/blob/master/Spanish.txt
 ```
@@ -9,6 +11,9 @@ https://github.com/juandayz/-starship-theory-traduccion-espa-ol/blob/master/Span
 ```
 2. Una vez dentro del juego vas a : Interface/Language y cambia English por Spanish. reinicia el juego y esta listo.
 ```
+
+
+**SI NO TENES EL JUEGO**
 
 ```
 3.Si no tenes el juego podes descargarlo aca:
@@ -19,9 +24,10 @@ Fuente de la descarga: https://pivigames.blog/starship-theory/
 ```
 
 ```
-Descargar el juego
-Descomprimir carpeta RAR
-remplazar el archivo Spanish.txt por el provisto aqui
-Ejecutar el juego como Administrador
-Jugar
+1-Descargar el juego
+2-Descomprimir carpeta RAR
+3-remplazar el archivo Spanish.txt por el provisto aqui
+4-Ejecutar el juego como Administrador
+5-Una vez dentro del juego vas a : Interface/Language y cambia English por Spanish. reinicia el juego y esta listo.
+
 ```
