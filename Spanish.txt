@@ -1,7 +1,7 @@
 //
-// archivo de texto en inglés
+// archivo de texto en español
 //
-// // ignora la línea
+// // traducido por juandayz (argentina 2019)
 // # inicio de la nueva categoría
 //
 
@@ -103,7 +103,7 @@ Apagado de componentes
 uso de CPU
 Consumo de energía
 Alternar el poder
-Desactivar la desc
+Encendido/Apagado
 Investigación
 Investigación de nuevos componentes
 Los puntos de investigación necesarios
@@ -113,12 +113,12 @@ necesario
 Para toda la construcción planificada
 Progreso
 Notificaciones
-Notificaciones ordenadas por los más recientes en la parte superi
+Notificaciones mas recientes
 Seleccionar tripulación
 Seleccionar nueva tripulación para vender
 
 # 200 Construir texto de botones
-retirar
+Borrar
 Cancelar planes o eliminar la estructura. Reembolsa el costo total si no está dañado, de lo contrario devuelve el porcentaje de HP.
 Casco
 Construir la base de la nave - las esquinas expuestas no se filtran
@@ -126,18 +126,18 @@ Piso
 Construir en el casco para crear habitaciones
 Cama
 Mejora el bienestar
-Cajita pequeña
+Caja pequeña
 Añadir capacidad de carga
 Cajón medio
 unidades
-Dispensador de alimentos
+Disp. de alimentos
 Proporciona alimentos [DIRECCIONAL]
 Motor medio
-Aumentar evadir a 2. Requiere mantenimiento. No se puede construir en las esquinas.
+Aumentar evacion a 2. Requiere mantenimiento. No se puede construir en las esquinas.
 Motor grande
-Aumentar evadir a 3. Requiere mantenimiento. No se puede construir en las esquinas.
+Aumentar evacion a 3. Requiere mantenimiento. No se puede construir en las esquinas.
 XLarge motor
-Aumentar evadir a 4. Requiere mantenimiento. No se puede construir en las esquinas.
+Aumentar evacion a 4. Requiere mantenimiento. No se puede construir en las esquinas.
 Silla
 Utilizado para comer y por la tripulación de operaciones. Se puede caminar encima.
 Mesa pequeña
@@ -157,11 +157,11 @@ Genera energía
 Solar
 Esquina del casco
 Esquina del casco desc
-Cama de planta pequeña
+Modulo de cultivo S
 Se utiliza para cultivar 1 alimento
-Lecho de planta mediana
+Modulo de Cultivo M
 Se utiliza para cultivar 2 alimentos
-Cama de planta grande
+Modulo de Cultivo L
 Se utiliza para cultivar 4 alimentos
 Pequeño reactor
 Genera energía. Requiere mantenimiento.
@@ -193,27 +193,27 @@ Torreta láser
 Arma de energía básica
 Celda de blindaje
 Componente del escudo base. Requiere la carga.
-Lanzador de torpedo
-Disparar despacio poderoso arma explosiva
-Foguete
+Lanzador Guia
+Dispara una poderosa arma explosiva
+Cañon T230
 Arma explosiva de múltiples disparos
 Torreta de plasma
 Arma de energía de disparo rápido
-Railgun
-Arma de proyectil duro golpear
-Torreta EMP
+Arma de Riel
+Arma de proyectil 
+Torreta ECE
 Arma de energía eficaz contra escudos
-Ametralladora
+M235/6
 Arma de proyectiles de múltiples disparos
 Refuerzo de escudo
 Recarga la celda de blindaje
-Placa de armadura pequeña
+armadura pequeña
 Proporciona un amortiguador de armadura
-Placa de armadura media
+Parmadura media
 Proporciona un amortiguador de armadura
-Placa de armadura grande
+armadura grande
 Proporciona un amortiguador de armadura
-Reparador de armaduras
+Robot ingeniero
 Utiliza nanobots para recargar el amortiguador de armadura
 Silla de capitán
 Brinda bonos de velocidad, moral y energía
@@ -225,7 +225,7 @@ Marcado de suelo
 Decoración interior
 Impresora de circuitos
 Impresora de circuitos desc
-Almohadilla de salud
+Modulo de salud
 Permite la curación de la tripulación. Puede caminar cuando no está en uso.
 Escotilla de carga
 Añadir capacidad de carga externa
@@ -235,7 +235,7 @@ Consola de Temperatura
 Trabajado por operaciones. Aumente la cantidad de ventilación por habilidad de inteligencia. [DIRECCIONAL]
 Matriz de Comms
 Comunicaciones desc desc
-Pequeño ventilador de Temperatura
+Cooler Pequeño
 Disminuye la Temperatura
 Pequeño panel solar
 Genera energía
@@ -243,7 +243,7 @@ Panel solar mediano
 Genera energía
 Matriz de CPU
 Proporciona CPU
-Enfriador de agua
+Conversor de agua
 Proporciona agua
 Matriz de sensores
 Detección temprana de amenazas
@@ -254,13 +254,13 @@ Trabajado por militares. Mejora la recarga de armadura por habilidad de combate 
 Límite 1
 Borrar consola
 Borrar consola desc
-Extendedor de minería
+Expansor de minería
 Aumenta el rango de minería
-Penetración de energía
+Repetidor tipo E
 Aumenta el daño de las armas de energía adyacentes (no en diagonal)
-Penetración de proyectiles
+Repetidor tipo P
 Aumenta el daño de las armas de proyectil adyacentes (no diagonales)
-Penetración explosiva
+Repetidor tipo EX
 Aumenta el daño de las armas explosivas adyacentes (no diagonales)
 Protección energética S
 Protección energética S desc
@@ -291,7 +291,7 @@ Daño de la tripulación base
 Tiempo de recarga
 Marcado del casco
 Decoración exterior
-Estación de investigación
+Modulo de Ciencias
 Desbloquear nuevos componentes
 Caja de arrastre
 Construir
@@ -301,11 +301,11 @@ Verificación de recursos
 La terminación de la tarea
 Progreso de la finalización de la tarea
 Núcleo de la nave
-Todos los componentes deben estar conectados al núcleo de la nave por el casco o el piso.
-Ventilación de Temperatura medio
+Todos los componentes deben estar conectados al núcleo de la nave por el casco o el piso
+Cooler Mediano
 capacidad
 respiradero
-Consola minera
+Consola de mineria
 Trabajado por militares. Aumenta el rango de minería por habilidad de combate. [DIRECCIONAL]
 
 # 400 Texto del menú 
@@ -330,8 +330,8 @@ Matar (depurar)
 Borrar la cama
 Despejar camas
 Restablecen a los predeterminados
-Cambiar el nombre de la tripulación
-Cambiar el nombre del equipo desc
+Cambia el nombre del tripulante
+Cambia el nombre del tripulante
 Asignar
 a
 Agilidad
@@ -351,7 +351,7 @@ Construir componentes de ingeniería
 Construir muebles
 Construir componentes funcionales
 Masa
-Clasificación de tamaño del barco utilizado en la habilidad de evadir
+Clasificación de tamaño de la nave utilizado en la habilidad de evadir
 Nave jugador
 Nombre de la nave del jugador
 Construcciòn
@@ -373,7 +373,7 @@ dormir
 Abierto
 Cerca
 Armas
-Armas y aficionados a las armas
+Armas y amplificadores de armas
 Respiradero
 Ventile el oxígeno en el espacio
 Sello de la nave de la ventilación al espacio
@@ -417,7 +417,7 @@ Salto de la deformación
 Velocidad Luz
 puntos de golpe
 Temperatura
-Capacidad de calor y enfriamiento
+Temperatura actual / capacidad de enfriamiento
 Aumente la Temperatura de la nave
 Capacidad de enfriamiento y calor de la nave objetivo
 UPC
@@ -439,15 +439,15 @@ Vaciar el alimento en el espacio
 Combate
 Mejora la operación de combate
 Precisión de la nave
-La precisión + 1d10 se compara con la evasión del enemigo. 10 es siempre un éxito.
-El barco evade
-Comparado con la precisión del enemigo + 1d10 para evadir el ataque. Aumenta la probabilidad de evitar la colisión de un asteroide.
+La precisión  se compara con la evasión del enemigo. 10 es siempre un éxito.
+La nave evadio
+Comparado con la precisión del enemigo para evadir el ataque. Aumenta la probabilidad de evitar la colisión de un asteroide.
 Precisión de la nave objetivo
-La precisión + 1d10 se compara con la evitación del jugador. 10 es siempre un éxito.
-La nave objetivo evade
-Comparado con la precisión del jugador + 1d10 para evadir el ataque
+La precisión  se compara con la evacion del jugador. 10 es siempre un éxito.
+La nave objetivo esta evadiendo
+Comparado con la precisión del jugador para evadir el ataque
 COLOR
-Recolore el barco
+Cambie la guia cromatica de la nave
 acento
 Caja
 Motor
@@ -456,7 +456,7 @@ Placas de armadura
 Reactor
 uniforme
 Mesa
-Lecho de la planta
+Modulo de Cultivo
 Plantas
 Suciedad
 Soldador
@@ -532,21 +532,21 @@ Explorar
 Minero
 Transportador
 Renombrar Nave
-Cree su propia designación de barco
+Un nuevo bautizmo para su nave.
 PERDER
 Reiniciar
-Restablecer opciones de color a los colores aplicados actualmente
+Restablecer las opciones de color.
 Aplicar
 Aplique nuevos colores a la nave
 Tiempo Normal
 Pausa
 rojo
 El equipo se enfoca en los roles de combate y las reparaciones - órdenes manuales necesarias para construir nuevas estructuras.
-Fuego automático
-Las armas apuntarán y dispararán automáticamente sobre la nave objetivo
-Saltar
-Ejecutar viaje a velocidad luz. Requiere carga y evade> 0.
-Azul
+Atacar!
+Las armas apuntarán y dispararán automáticamente sobre la nave objetivo.
+Velocidad Luz
+Ejecutar viaje a velocidad luz. Requiere carga y evacion mayor a 0.
+Blanco
 Toda la tripulación volverá a navegar
 Negro
 Abandonen la nave
@@ -556,9 +556,9 @@ Detectar amenazas entrantes con advertencia adicional.
 Capacidad del equipo del sensor
 Acelerar Tiempo
 Funciones
-Designar papeles a la tripulación
-Burbuja de aire
-Saliendo del barco
+Designar roles a la tripulación
+exclusa 
+Saliendo de la nave
 Regresando a la nave
 Encaminado a
 Trabajando
@@ -596,7 +596,7 @@ Plantas
 Control manual
 La tripulación está bajo control manual
 Tarea
-La tarea asignada por el miembro de la tripulación
+La tarea asignada actualmente
 Establecer curso
 Campo de asteroides
 Firma de la nave
@@ -611,7 +611,7 @@ Salir
 Salvar
 Continuar
 Ranura vacía
-Bautisar la Nave
+Bautizar la Nave
 Al espacio
 Defecto
 Cambiar
@@ -648,8 +648,8 @@ Demora de información sobre herramientas
 Aumentar o disminuir el tiempo antes de que aparezca información sobre herramientas
 Sensibilidad de arrastrar
 Sensibilidad de arrastre de la cámara
-IU de escala
-Experimental. Cambie el valor para aumentar / disminuir hasta que no se vea demasiado roto. YMMV. Predeterminado 1.
+Zoom de la Pantalla
+Experimental. Cambie el valor para aumentar / disminuir. Predeterminado 1.
 Preset de color
 Haga clic izquierdo para establecer. Haga clic derecho para borrar.
 Modo Ventana
@@ -661,8 +661,8 @@ Establecer FPS máximo
 Ninguna
 VSYNC
 Alternar VSYNC
-Acento del menú
-Establecer el color de acento del menú
+Color del menú
+Establecer el color de la base del menú
 Restablecer los ajustes del menú
 Restablece todas las configuraciones del menú a la configuración predeterminada
 Establecer la resolución a pantalla completa
@@ -814,7 +814,7 @@ Ordenar la copa del equipo
 Alternar el código azul
 Activar / desactivar el código azul
 Salto de la deformación
-Requiere carga completa y> 0 evadir
+Requiere carga completa y evacion mayor a 0
 Cambiar el código negro
 Activar / desactivar el código negro
 Panel de la tripulación
