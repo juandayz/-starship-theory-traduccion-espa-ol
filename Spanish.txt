@@ -52,8 +52,8 @@ Comercio
 exitoso
 fracasado
 Nave detectada en escáneres de largo alcance
-Cuidado! Nos acercamos a un campo de asteroides!
-Nos acercamos a una estrella!
+Cuidado! Nos acercamos a un campo de asteroides!Podriamos minar algunos.
+Nos acercamos a una estrella! La temperatura de la nave subira considerablemente.
 La nave objetivo es hostil! No usado
 Sobrecalentamiento de sistemas
 Exceso de carga ventilada
@@ -417,7 +417,7 @@ Salto de la deformación
 Velocidad Luz
 puntos de golpe
 Temperatura
-Temperatura actual / capacidad de enfriamiento
+Temperatura actual / capacidad de enfriamiento / Dispositivos de enfriamiento
 Aumente la Temperatura de la nave
 Capacidad de enfriamiento y calor de la nave objetivo
 UPC
@@ -491,7 +491,7 @@ Comercio
 cada
 Comprar
 Vender
-para
+por
 Créditos
 RELACIÓN
 Estado de relación con el objetivo
@@ -621,7 +621,7 @@ Vídeo
 Audio
 Controles
 Interfaz
-Dominar
+Principal
 Efectos
 Menú
 Música
@@ -630,7 +630,7 @@ Descripción del volumen principal
 Descripción del volumen de efectos
 Descripción del volumen del menú
 Descripción del volumen de la música
-Balanza estéreo
+Estereo
 -1 (a la izquierda) a 1 (a la derecha). Valor predeterminado = 0.
 Mezcla espacial
 0 (2d) a 1 (3d). Predeterminado = 1.
