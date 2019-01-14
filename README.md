@@ -27,10 +27,11 @@ LINK:
 
 
 ```
-1-Descargar el juego
+
 2-Descomprimir carpeta RAR
 3-remplazar el archivo Spanish.txt por el provisto aqui
 4-Ejecutar el juego como Administrador
-5-Una vez dentro del juego vas a : Interface/Language y cambia English por Spanish. reinicia el juego y esta listo.
+5-Una vez dentro del juego vas a : Interface/Language y cambia English por Spanish.
+6-reinicia el juego y esta listo.
 
 ```
