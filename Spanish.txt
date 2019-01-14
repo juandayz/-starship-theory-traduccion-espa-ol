@@ -420,7 +420,7 @@ Temperatura
 Temperatura actual / capacidad de enfriamiento / Dispositivos de enfriamiento
 Aumente la Temperatura de la nave
 Capacidad de enfriamiento y calor de la nave objetivo
-UPC
+CPU
 Beber
 beber
 Estructuras
