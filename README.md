@@ -1,5 +1,9 @@
 # -starship-theory-traduccion-espa-ol
 
+POR FAVOR HAZ UNA DONACION: https://github.com/juandayz/-starship-theory-traduccion-espa-ol/blob/master/DONATION.md
+
+
+
 **SI YA TENES EL JUEGO**
 
 ```
